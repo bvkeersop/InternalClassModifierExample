@@ -1,1 +1,1 @@
-This repository contains an example of why using the `public` modifier by default is a bad idea, and why it's better to use the default `internal` modifier. See my blog post for more information.
+This repository contains an example of why using the `public` modifier by default is a bad idea, and why it's better to use the default `internal` modifier. See my [blog post](https://bvkeersop.github.io/posts/stop-using-public-classes/) for more information.
