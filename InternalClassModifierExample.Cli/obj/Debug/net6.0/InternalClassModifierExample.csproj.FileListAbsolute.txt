@@ -1,0 +1,15 @@
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\bin\Debug\net6.0\InternalClassModifierExample.exe
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\bin\Debug\net6.0\InternalClassModifierExample.deps.json
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\bin\Debug\net6.0\InternalClassModifierExample.runtimeconfig.json
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\bin\Debug\net6.0\InternalClassModifierExample.dll
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\bin\Debug\net6.0\InternalClassModifierExample.pdb
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\obj\Debug\net6.0\InternalClassModifierExample.csproj.AssemblyReference.cache
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\obj\Debug\net6.0\InternalClassModifierExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\obj\Debug\net6.0\InternalClassModifierExample.AssemblyInfoInputs.cache
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\obj\Debug\net6.0\InternalClassModifierExample.AssemblyInfo.cs
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\obj\Debug\net6.0\InternalClassModifierExample.csproj.CoreCompileInputs.cache
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\obj\Debug\net6.0\InternalClassModifierExample.dll
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\obj\Debug\net6.0\refint\InternalClassModifierExample.dll
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\obj\Debug\net6.0\InternalClassModifierExample.pdb
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\obj\Debug\net6.0\InternalClassModifierExample.genruntimeconfig.cache
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample\obj\Debug\net6.0\ref\InternalClassModifierExample.dll

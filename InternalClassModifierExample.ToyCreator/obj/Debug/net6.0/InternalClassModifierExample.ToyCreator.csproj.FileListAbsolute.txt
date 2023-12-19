@@ -1,0 +1,12 @@
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\bin\Debug\net6.0\InternalClassModifierExample.ToyCreator.deps.json
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\bin\Debug\net6.0\InternalClassModifierExample.ToyCreator.dll
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\bin\Debug\net6.0\InternalClassModifierExample.ToyCreator.pdb
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\obj\Debug\net6.0\InternalClassModifierExample.ToyCreator.csproj.AssemblyReference.cache
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\obj\Debug\net6.0\InternalClassModifierExample.ToyCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\obj\Debug\net6.0\InternalClassModifierExample.ToyCreator.AssemblyInfoInputs.cache
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\obj\Debug\net6.0\InternalClassModifierExample.ToyCreator.AssemblyInfo.cs
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\obj\Debug\net6.0\InternalClassModifierExample.ToyCreator.csproj.CoreCompileInputs.cache
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\obj\Debug\net6.0\InternalClassModifierExample.ToyCreator.dll
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\obj\Debug\net6.0\refint\InternalClassModifierExample.ToyCreator.dll
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\obj\Debug\net6.0\InternalClassModifierExample.ToyCreator.pdb
+C:\Users\bartv\Desktop\TMP\InternalClassModifierExample\InternalClassModifierExample.ToyCreator\obj\Debug\net6.0\ref\InternalClassModifierExample.ToyCreator.dll

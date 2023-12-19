@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmLUK9b4RQERr3x8bKpX8cUvRuwRX0WVv4XQcheScqXw6FY3PcXdKOD9rka5StoRpesNAxskDYuAt8p8jhZA+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bartv\\Desktop\\TMP\\InternalClassModifierExample\\InternalClassModifierExample.ExternalAssembly\\InternalClassModifierExample.ToyCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bartv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

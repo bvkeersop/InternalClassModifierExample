@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9DgyptdPCjxlsTBOPkhSsCDV4NsuLbZOHLyFmOxj8aE5JMmYMeLYccyPvf2rPkgoqEOKnJifVyK50wHh6RKPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bartv\\Desktop\\TMP\\InternalClassModifierExample\\InternalClassModifierExample.Cli\\InternalClassModifierExample.Cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bartv\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\bartv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
